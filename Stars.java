@@ -1,5 +1,4 @@
 /*
-* Copyright (c) 2021
 *
 * The program Stars.java uses recursion to create a hourglass of stars 
 * of a size entered by the user.
