@@ -1,5 +1,4 @@
 /*
-* Copyright (c) 2021
 *
 * The program Palindrome.java uses recursion to find how many iterations 
 * it will take to find the palindrome number.
